@@ -10,7 +10,7 @@ Source code links
 1. <a href="https://github.com/TheMinecraftMan2012/Advanced-Valuables-NeoForge.git">Click Here</a> to go to NeoForge Source Code
 2. <a href="https://github.com/TheMinecraftMan2012/Advanced-Valuables-Forge.git">Click Here</a> to go to Forge Source Code
 3. <a href="https://github.com/TheMinecraftMan2012/Advanced-Valuables-Fabric.git">Click Here</a> to go to Fabric Source Code
-<br><br>
+<br>
 You can edit, copy, fork, use, distribute, sell copies and so on because these source
 <br>
 codes are under MIT License.
